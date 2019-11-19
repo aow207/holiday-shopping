@@ -33,20 +33,20 @@ Some of the questions I want to keep in mind while looking at the data:
 * With online shopping on the rise, have the number of shipped returns increased?
 * How are UPS, USPS and FedEx dealing with this huge influx of packages?
 * What types of items are the biggest impulse buys?
-** Why?
-** Is there a psychological reason why people choose these items?
-** How do online retailers like Amazon use this information?
+* Why?
+* Is there a psychological reason why people choose these items?
+* How do online retailers like Amazon use this information?
 * Which brick and mortar stores are the most popular during Black Friday?
 * What is the optimal time to wake up for Black Friday shopping?
-** Do people take that into account during Thanksgiving?
+* Do people take that into account during Thanksgiving?
 * If there is location data in these datasets…
-** Where are people doing the most shopping?
-** Does this correlate with the weather?
-** Are people more likely to go Black Friday shopping in areas where it doesn’t get too cold?
-** Can I quantify how crazy people get during Black Friday shopping?
-** Is there a dataset on the number of arrests made on Black Friday?
-** Has that number been increasing or decreasing?
-** Could online shopping have an impact on this number?
+* Where are people doing the most shopping?
+* Does this correlate with the weather?
+* Are people more likely to go Black Friday shopping in areas where it doesn’t get too cold?
+* Can I quantify how crazy people get during Black Friday shopping?
+* Is there a dataset on the number of arrests made on Black Friday?
+* Has that number been increasing or decreasing?
+* Could online shopping have an impact on this number?
 
 ## Do you have sketches of what the final project might look like?
 A [high-fidelity mockup](https://github.com/aow207/holiday-shopping/blob/master/Sketches%20and%20Mocukups/first-draft-mockup.pdf) and [sketches](https://github.com/aow207/holiday-shopping/blob/master/Sketches%20and%20Mocukups/first-draft-sketch.pdf) are both available.
