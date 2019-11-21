@@ -49,4 +49,4 @@ Some of the questions I want to keep in mind while looking at the data:
 * Could online shopping have an impact on this number?
 
 ## Do you have sketches of what the final project might look like?
-[Sketches](https://github.com/aow207/holiday-shopping/blob/master/Sketches%20and%20Mocukups/first-draft-sketch.pdf) are available here. The high fidelity mockup is currently undergoing changes.
+[Sketches](https://github.com/aow207/holiday-shopping/blob/master/Sketches%20and%20Mocukups/first-draft-sketch.pdf) are available. The high fidelity mockup is currently undergoing changes.
