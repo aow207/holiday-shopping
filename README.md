@@ -1,9 +1,14 @@
 # Holiday Shopping Trends - Data / Multimedia Project
- 
-## What is this project?
-This project is about holiday shopping trends.
+[This project is being developed live here] (https://drewoday.com/shop/).
 
-With the introduction of online shopping, I’ll be able to find clear trends in the number of online sales and returns increasing. I also think that this dataset will produce timely and newsworthy stories due to the approaching holiday season. Finding additional local sources also shouldn’t be too difficult because of New York’s large retail market.
+## What is this project?
+This project is a guide on how to survive holiday shopping.
+
+I'll be mainly looking at violence during Black Friday sales and whether or not the rise of Cyber Monday has created a decrease in violence over the years.
+
+Other things I’ll look at include the growing number of returns and new issues that have risen due to online shopping. 
+
+I also think that this dataset will produce timely and newsworthy stories due to the approaching holiday season. Finding additional local sources also shouldn’t be too difficult because of New York’s large retail market.
 
 This dataset has information on a variety of categories including:
 
