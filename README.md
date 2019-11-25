@@ -1,5 +1,5 @@
 # Holiday Shopping Trends - Data / Multimedia Project
-[This project is being developed live here] (https://drewoday.com/shop/).
+[This project is being developed live here](https://drewoday.com/shop/).
 
 ## What is this project?
 This project is a guide on how to survive holiday shopping.
