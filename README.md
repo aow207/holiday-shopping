@@ -1,13 +1,13 @@
 # Holiday Shopping Trends - Data / Multimedia Project
 
+View the live project [here](https://drewoday.com/spend-it/).
+
 ## What is this project?
-This project is a guide on how to survive holiday shopping.
+This project is about how online holiday shopping hurts the environment and puts our information at risk.
 
-I'll be mainly looking at violence during Black Friday sales and whether or not the rise of Cyber Monday has created a decrease in violence over the years.
+It also looks at  the growing number of returns and other new issues that have risen due to online shopping. 
 
-Other things I’ll look at include the growing number of returns and new issues that have risen due to online shopping. 
-
-I also think that this dataset will produce timely and newsworthy stories due to the approaching holiday season. Finding additional local sources also shouldn’t be too difficult because of New York’s large retail market.
+I also think that this dataset will produce timely and newsworthy stories due to the approaching holiday season.
 
 This dataset has information on a variety of categories including:
 
